@@ -1,0 +1,81 @@
+/* CSS for body */
+body{
+    background-color: rgb(177, 130, 238);
+}
+/* main div css */
+#main {
+    height:365px;
+    width:350px;
+    background-color: white;
+    margin: 0px auto;
+    margin-top:100px;
+    border-radius:5px;
+}
+#login{
+    height:50px;
+    width:100%;
+    border-bottom: 1px solid lightgray;
+
+}
+/* css for login heading */
+#heading{
+    text-align: center;
+    font-weight: bold;
+    font-family: Georgia;
+    font-size: 35px;
+   
+}
+#box{
+    height:190px;
+    padding: 30px 20px 20px 50px;
+   
+}
+/* input type username CSS */
+#username{
+    height:25px;
+    width:250px;
+   border-bottom: 2px solid gray;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+
+}
+/* INPUT TYPE PASSWORD CSS */
+#password{
+    height:25px;
+    width:250px;
+   border-bottom: 2px solid gray;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   padding-top: 30px;
+
+}
+#a1{
+    text-decoration: none;
+    color: gray;
+    
+}
+/* css for submit button */
+button{
+    height:40px;
+    width:250px;
+    background-color:hsl(197, 79%, 36%);
+    border-radius:20px;
+    border:none;
+    color:white;
+   
+}
+#a2{
+    text-decoration: none;
+    color:   hsl(197, 79%, 36%);
+}
+
+p{
+    text-align: center;
+   
+}
+#a1{
+    text-align: left;
+}
+
